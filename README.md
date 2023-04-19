@@ -12,4 +12,4 @@ If you like my work, you can sponsor me on [GitHub Sponsors](https://github.com/
 
 ## Current work
 
-In the last months I have worked on [TailwindHelper](https://github.com/Jako/TailwindHelper), a MODX extra that builds a safelist.json of a MODX installation. In combination with [MODXTailwind](https://github.com/Jako/MODXTailwind) you can easily create and maintain MODX Template based on [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss).
+My last open source extra for MODX was [MenuKeeper](https://github.com/Jako/MenuKeeper), a MODX extra that helps to keep the order of the manager menu. Behind the curtain I am working on Cursus, a premium booking system for MODX on base of [Agenda](https://modmore.com/agenda/).
