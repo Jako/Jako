@@ -4,7 +4,7 @@ I am a german **web-developer** & **designer** based in Münsterland, Germany. I
 
 ## Open Source
 
-I love open source and I commit a lot of my spare time in open source projects. Most of these projects are extensions to [MODX](https://github.com/modxcms), a content management system to build fast, secure websites. 
+I love open source and I commit some of my spare time in open source projects. Most of these projects are extensions to [MODX](https://github.com/modxcms), a content management system to build fast, secure websites. 
 
 If you like my work, you can sponsor me on [GitHub Sponsors](https://github.com/sponsors/Jako). You can also buy me a coffee (or two) on [Ko-fi](https://ko-fi.com/treehillstudio). I also offer paid coding of custom MODX extras.
 
