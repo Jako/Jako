@@ -12,4 +12,4 @@ If you like my work, you can sponsor me on [GitHub Sponsors](https://github.com/
 
 ## Current work
 
-My last open source extra for MODX was [MenuKeeper](https://github.com/Jako/MenuKeeper), a MODX extra that helps to keep the order of the manager menu. Behind the curtain I am working on Cursus, a premium booking system for MODX on base of [Agenda](https://modmore.com/agenda/).
+My last open source extra for MODX was [TwoFactorX](https://github.com/Jako/TwoFactorX), a MODX extra that adds a two-factor authentication to the MODX manager. Behind the curtain I am working on Cursus, a premium booking system for MODX on base of [Agenda](https://modmore.com/agenda/).
