@@ -1,6 +1,6 @@
 # Hi, I’m Thomas Jakobi 👋
 
-I am a german **web-developer** & **designer** based in Münsterland, Germany. I am the developer and/or maintainer of around 30 open source extras for MODX. I am the owner of [Treehill Studio](https://treehillstudio.com), an agency developing premium extras for MODX.
+I am a german **web-developer** & **designer** based in Münsterland, Germany. I am the developer and/or maintainer of around 35 open source extras for MODX. I am the owner of [Treehill Studio](https://treehillstudio.com), an agency developing premium extras for MODX.
 
 ## Open Source
 
