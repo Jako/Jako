@@ -12,4 +12,4 @@ If you like my work, you can sponsor me on [GitHub Sponsors](https://github.com/
 
 ## Current work
 
-My last open source extra for MODX was [TwoFactorX](https://github.com/Jako/TwoFactorX), a MODX extra that adds a two-factor authentication to the MODX manager. Lately I released [Cursus](https://modmore.com/cursus/), a premium booking system for MODX on base of [Agenda](https://modmore.com/agenda/).
+My last open source extra for MODX was [TwoFactorX](https://github.com/Jako/TwoFactorX), a MODX extra that adds a two-factor authentication to the MODX manager. I recently updated [AjaxUpload](https://github.com/Jako/AjaxUpload) to 2.0, using [pqina/filepond](https://github.com/pqina/filepond) as upload script. Lately I released [Cursus](https://modmore.com/cursus/), a premium booking system for MODX on base of [Agenda](https://modmore.com/agenda/).
